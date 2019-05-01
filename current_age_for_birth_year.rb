@@ -1,3 +1,3 @@
 def current_age_for_birth_year(x)
-  return 19
+  return 2003-x
 end
